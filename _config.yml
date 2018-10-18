@@ -88,3 +88,11 @@ exclude:
 collections:
   connecttech2018:
     output: true
+defaults:
+  - scope:
+      path: ""
+      type: "connecttech2018"
+    values:
+      layout: "default"
+      title: Connect Tech 2018
+      permalink: /:collection/:title
