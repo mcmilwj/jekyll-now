@@ -91,8 +91,8 @@ collections:
 
 defaults:
   - scope:
-      path: ""
-      type: "connecttech2018"
+    path: ""
+    type: "connecttech2018"
     values:
       layout: "default"
       title: Connect Tech 2018
