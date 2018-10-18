@@ -88,6 +88,7 @@ exclude:
 collections:
   connecttech2018:
     output: true
+
 defaults:
   - scope:
       path: ""
